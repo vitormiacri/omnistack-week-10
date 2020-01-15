@@ -13,7 +13,7 @@ class App {
 
   database() {
     this.mongoose = mongoose.connect(
-      "mongodb+srv://semana:semana@cluster0-xiikz.mongodb.net/week10?retryWrites=true&w=majority",
+      "mongodb+srv://<user>:<password>@cluster0-xiikz.mongodb.net/week10?retryWrites=true&w=majority",
       {
         useNewUrlParser: true,
         useUnifiedTopology: true
