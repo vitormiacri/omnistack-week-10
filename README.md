@@ -1,6 +1,6 @@
-# GeoDev
+# DevRadar
 
-GeoDev app, developed during Rocketseat's 10ª omnistack week
+DevRadar app, developed during Rocketseat's 10ª omnistack week
 
 ## Instalation
 
